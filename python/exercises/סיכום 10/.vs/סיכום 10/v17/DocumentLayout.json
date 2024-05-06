@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\noam\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4 (2)\\mego\\python\\projects\\",
+  "WorkspaceRootPath": "C:\\Users\\noam\\source\\repos\\\u05E1\u05D9\u05DB\u05D5\u05DD 10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D185ED6-9C65-43F9-92F8-8B3C26784423}|hang man\\hang man.pyproj|C:\\Users\\noam\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4 (2)\\mego\\python\\projects\\hang man\\hang_man.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1D185ED6-9C65-43F9-92F8-8B3C26784423}|hang man\\hang man.pyproj|solutionrelative:hang man\\hang_man.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AE22D58A-0B45-49E3-BD48-FBE16E791C95}|\u05E1\u05D9\u05DB\u05D5\u05DD 10\\\u05E1\u05D9\u05DB\u05D5\u05DD 10.pyproj|C:\\Users\\noam\\source\\repos\\\u05E1\u05D9\u05DB\u05D5\u05DD 10\\\u05E1\u05D9\u05DB\u05D5\u05DD 10\\\u05E1\u05D9\u05DB\u05D5\u05DD_10.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE22D58A-0B45-49E3-BD48-FBE16E791C95}|\u05E1\u05D9\u05DB\u05D5\u05DD 10\\\u05E1\u05D9\u05DB\u05D5\u05DD 10.pyproj|solutionrelative:\u05E1\u05D9\u05DB\u05D5\u05DD 10\\\u05E1\u05D9\u05DB\u05D5\u05DD_10.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "hang_man.py",
-              "DocumentMoniker": "C:\\Users\\noam\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4 (2)\\mego\\python\\projects\\hang man\\hang_man.py",
-              "RelativeDocumentMoniker": "hang man\\hang_man.py",
-              "ToolTip": "C:\\Users\\noam\\Desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4 (2)\\mego\\python\\projects\\hang man\\hang_man.py",
-              "RelativeToolTip": "hang man\\hang_man.py",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "Title": "\u05E1\u05D9\u05DB\u05D5\u05DD_10.py",
+              "DocumentMoniker": "C:\\Users\\noam\\source\\repos\\\u05E1\u05D9\u05DB\u05D5\u05DD 10\\\u05E1\u05D9\u05DB\u05D5\u05DD 10\\\u05E1\u05D9\u05DB\u05D5\u05DD_10.py",
+              "RelativeDocumentMoniker": "\u05E1\u05D9\u05DB\u05D5\u05DD 10\\\u05E1\u05D9\u05DB\u05D5\u05DD_10.py",
+              "ToolTip": "C:\\Users\\noam\\source\\repos\\\u05E1\u05D9\u05DB\u05D5\u05DD 10\\\u05E1\u05D9\u05DB\u05D5\u05DD 10\\\u05E1\u05D9\u05DB\u05D5\u05DD_10.py",
+              "RelativeToolTip": "\u05E1\u05D9\u05DB\u05D5\u05DD 10\\\u05E1\u05D9\u05DB\u05D5\u05DD_10.py",
+              "ViewState": "AQIAANEAAAAAAAAAAAAAAAoAAAASAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM5SURBVEhLtVVNSFRRFD7z85yGyZnUYZwxIrGUsCRSSrFFJlQriSCKCBdBLmZTlKCBi8xVzc5NiyREIqJVC6FctCgy6sWggyAVWDOpTaWpozO9mTfv53bue3fGMX3yLPrg45x33r3n3Pvd8\u002B6D/wpCiIW5eXR0dBDmmsXhgYGBMPPXYcMC/f397Glz9PT0SKIoTkuSdBGL8Cy8BlZm/woej4fr6uoq5TjuIS6skYXXwLAAz/OGLITP5yspKNLAwsagEgmCYIq9vb15PxqNLgaDwSmcv4el0vBPElGEQiGNQ0NDJTabzY\u002BhOv2NDjuz6/CnFIVobNTlRmk0m8Pg4GA4EomwJx2GO6BJNmJTUxOg3iAoFphNZCG2mIGltAp2u50euoNNz8NwB0ZYEUS4PfIeYvMrIKRFUGQZKUG52wF9504eGh8f59hQDVvuolhChjIXB6Hz9Sy5zpn5ZRgOf3G0tLTUsBQatiyRqhJ4/eEbdD54A6qiIGXdYpGUkIHi4uLtLIWGTbtIwYmUFqsVwtMpePQuDmPRn3C81g/NNT44UVcBnI2Ow13QIqoKx\u002BoTN0jyGSHS3CheRaWmuijhrob7L6byeq9Ko/t09ZolKoDwSp\u002BUmTwK3s6bpiQamYizVVLSXeX81RiVqrqczsS7UslggY8A8o/Tm0qUw\u002Bx8UltljjZcaaXXBVXlbqjyu2FvwANnmqvgQsMnTCpggTQSbTa\u002B2/A2LZToDi\u002BBLFE5JNhZ4oR77SI4yRS\u002Byd3saKU4Jk8BqCIyiwXQ\u002BrvNdVEF9jiVgEoRbHWBU3qJyb4iMak0CyB\u002BRrvMVo7M7aJo15IpiVoPBPKH6dkmsyhClXQpZJa40HdUA3CBJ6Ykoki7KyG\u002BkIS2g2nwkceYhElRVIu/LbwhCC2MTWl1ocXe3XFqDuzeI6b/aFb8FiwWCxSp2B0Ld/XkVG8FLVHQx3Nw4SVY0X0Lh48ieRyfNCURBf2I6BkQ7KFVrZksZZcBvJdwFU5tLCZ\u002BTpNrvhYpAN0BczfE9WtXJ/f53u6HxFO9SG4XrnqQAn1ZzuE5i8mH2fCtAz9/G/IKkZMR8mtCJqkxQrLfYxjjke3INjYUAfAb47MfvRyFLYgAAAAASUVORK5CYII=",
-              "WhenOpened": "2024-04-11T12:05:53.273Z",
+              "WhenOpened": "2024-04-11T09:29:35.591Z",
               "EditorCaption": ""
             }
           ]

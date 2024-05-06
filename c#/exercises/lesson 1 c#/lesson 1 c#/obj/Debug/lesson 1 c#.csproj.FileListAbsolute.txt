@@ -1,0 +1,7 @@
+C:\Users\noam\source\repos\lesson 1 c#\lesson 1 c#\bin\Debug\lesson 1 c#.exe.config
+C:\Users\noam\source\repos\lesson 1 c#\lesson 1 c#\bin\Debug\lesson 1 c#.exe
+C:\Users\noam\source\repos\lesson 1 c#\lesson 1 c#\bin\Debug\lesson 1 c#.pdb
+C:\Users\noam\source\repos\lesson 1 c#\lesson 1 c#\obj\Debug\lesson 1 c#.csproj.AssemblyReference.cache
+C:\Users\noam\source\repos\lesson 1 c#\lesson 1 c#\obj\Debug\lesson 1 c#.csproj.CoreCompileInputs.cache
+C:\Users\noam\source\repos\lesson 1 c#\lesson 1 c#\obj\Debug\lesson 1 c#.exe
+C:\Users\noam\source\repos\lesson 1 c#\lesson 1 c#\obj\Debug\lesson 1 c#.pdb

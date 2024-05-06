@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noam\\source\\repos\\lesson 1 c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C6B726-F1B1-4D35-8AFD-3D0A251C4587}|lesson 1 c#\\lesson 1 c#.csproj|c:\\users\\noam\\source\\repos\\lesson 1 c#\\lesson 1 c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C6B726-F1B1-4D35-8AFD-3D0A251C4587}|lesson 1 c#\\lesson 1 c#.csproj|solutionrelative:lesson 1 c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noam\\source\\repos\\lesson 1 c#\\lesson 1 c#\\Program.cs",
+              "RelativeDocumentMoniker": "lesson 1 c#\\Program.cs",
+              "ToolTip": "C:\\Users\\noam\\source\\repos\\lesson 1 c#\\lesson 1 c#\\Program.cs",
+              "RelativeToolTip": "lesson 1 c#\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:37:56.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
